@@ -1,0 +1,1 @@
+export const selectAllGolfCourses = (state) => state.golfCourse.golfCourses
